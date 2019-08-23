@@ -1,7 +1,5 @@
 #### NEC Controller
 
-Windows App for controlling NEC projectors in the same network (via LAN)
+Simple C# app for Windows to control NEC projectors in the same LAN network.
 
-One of project created in case of passing a subject during studies.
-All you need to do is to provide IP address to NEC projector in the same network.
-Different models allows to control different functionalities.
+Final project
